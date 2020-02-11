@@ -1,6 +1,6 @@
 # Chrome Extension Developers Group
 
-This repository hosts the Crhome Extension Developers Group.  
+This repository hosts the Chrome Extension Developers Group.  
 The objective of this group is to join forces and steer the processes and tools related to the Chrome Extensions ecosystems, that are owned by Google.
 
 ## History and Motivation
