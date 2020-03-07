@@ -46,5 +46,6 @@ To see the ongoning and planned activites, refer to the [General Project](https:
 ## Related forums
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/google-chrome-extension)
 - [Google Groups for Chrome Extensions][google-groups-for-chrome-ext]
+- https://www.reddit.com/r/chrome_extensions/
 
 [google-groups-for-chrome-ext]: https://groups.google.com/a/chromium.org/forum/?utm_medium=email&utm_source=footer#!topic/chromium-extensions/lCN_6H1-F30
