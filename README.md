@@ -34,8 +34,6 @@ As such the author decided to create a project that would give the means for the
 
 To see the ongoning and planned activites, refer to the [General Project](https://github.com/orgs/chrome-extension-developers/projects/1).
 
-[google-groups-for-chrome-ext]: https://groups.google.com/a/chromium.org/forum/?utm_medium=email&utm_source=footer#!topic/chromium-extensions/lCN_6H1-F30
-
 ## Contributing, Feedback, Support and Contact
 - Send a Pull Request
 - Browse the issues and engage in the discussions
@@ -44,3 +42,9 @@ To see the ongoning and planned activites, refer to the [General Project](https:
   - Ask questions
   - Give feedback
   - Anything else you can think of
+  
+## Related forums
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/google-chrome-extension)
+- [Google Groups for Chrome Extensions][google-groups-for-chrome-ext]
+
+[google-groups-for-chrome-ext]: https://groups.google.com/a/chromium.org/forum/?utm_medium=email&utm_source=footer#!topic/chromium-extensions/lCN_6H1-F30
