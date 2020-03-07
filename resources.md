@@ -1,6 +1,7 @@
 # Resources
 
 Here is a list of useful resources for Chrome Extension Developers:
+- [Browser extension article at Wikipedia](https://en.wikipedia.org/wiki/Browser_extension)
 - Chrome Extensions
   - [Chrome Extension APIs](https://developer.chrome.com/extensions/api_index)
   - Manifest v3
