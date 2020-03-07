@@ -3,6 +3,7 @@
 Here is a list of useful resources for Chrome Extension Developers:
 - [Browser extension article at Wikipedia](https://en.wikipedia.org/wiki/Browser_extension)
 - Chrome Extensions
+  - [What are extensions?](https://developer.chrome.com/extensions)
   - [Chrome Extension APIs](https://developer.chrome.com/extensions/api_index)
   - Manifest v3
     - [Issue 896897: Extensions: Implement Manifest V3](https://bugs.chromium.org/p/chromium/issues/detail?id=896897)
